@@ -1,0 +1,32 @@
+body{
+    font-family: "Lato",sans-serif;
+    text-align: center;
+    padding: 10px;}
+
+#equipo{
+    text-align: center;
+    padding: 10px;
+    background-color: #673ab7;
+    color: aliceblue;
+}
+
+#entrenador{
+    text-align: center;
+    padding: 10px;
+    color: #673ab7
+}
+
+#jugadores{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 2px solid black;
+
+}
+
+th{
+    text-align: center;
+    padding: 10px;
+    background-color: #673ab7;
+    color: #ffffff
+}

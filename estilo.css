@@ -1,0 +1,50 @@
+body{
+    font-family: "Lato",sans-serif}
+header{
+text-align: center;
+padding: 10px;
+background-color: #673ab7;
+border-radius: 20px;}
+#logo-liga{
+    position: absolute;
+    height: 100px;
+left: 75px;
+}
+main{
+clear: both;}
+.equipo{
+    text-align: center;
+    border: 1px solid red;
+    margin: 5px;}
+.equipo-estadio{
+    text-align: center;
+    color: #673ab7;}
+.competicion-logo{
+    text-align: center;
+    height: 100px;}
+body{
+    font-family:"Lato", sans-serif;}
+#nombre-liga{
+    text-align: center;
+    color: white;}
+#jornada-actual{
+    text-align: center;
+    color: white;}
+.equipo-imagen{
+text-align: center;
+    height: 120px;}
+.equipo{
+text-align:center;
+    display:inline-block;
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+    -webkit-box-shadow:4px 4px 20px 0px #673ab7;}
+.equipo-nombre{
+text-align:center;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    font-size: 50px;
+    margin: 20px;
+    text-align: center;
+    font-weight: bold; }
